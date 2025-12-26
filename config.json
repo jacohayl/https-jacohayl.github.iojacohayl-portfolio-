@@ -1,13 +1,12 @@
 {
   "input": "./gallery",
   "output": "./build_output",
-  "title": "Photo Gallery",
+  "title": "Haylee Jacobson — Photography & Design",
   "sort-albums-by": "title",
   "sort-media-by": "filename",
+  "theme": "cards",           // try also: "mosaic", "classic", "flow"
+  "custom-css": "./custom.css",
+  "footer": "© 2025 Haylee Jacobson — South-Eastern Idaho<br>Call/Text: (208) 715-0615",
   "download-photos": "copy",
-  "cleanup": true,
-  "theme": "cards",
-  "css": "./custom.css",
-  "footer": "Copyright Text",
-  "usage-stats": false
+  "cleanup": true
 }
